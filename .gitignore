@@ -1,3 +1,11 @@
+Binaries/
+Intermediate/
+Saved/
+ProjectName.opensdf
+ProjectName.sdj
+ProjectName.sln
+ProjectName.v12.suo
+
 # Compiled Object files
 *.slo
 *.lo
